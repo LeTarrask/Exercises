@@ -64,11 +64,11 @@ class ExercisesTest5: XCTestCase {
         }
     }
     
-    func testNextBigger() {
-        XCTAssertEqual(nextBigger(num: 12), 21)
-        XCTAssertEqual(nextBigger(num: 513), 531)
-        XCTAssertEqual(nextBigger(num: 2017), 2071)
-        XCTAssertEqual(nextBigger(num: 414), 441)
-        XCTAssertEqual(nextBigger(num: 144), 414)
-    }
+//    func testNextBigger() {
+//        XCTAssertEqual(nextBigger(num: 12), 21)
+//        XCTAssertEqual(nextBigger(num: 513), 531)
+//        XCTAssertEqual(nextBigger(num: 2017), 2071)
+//        XCTAssertEqual(nextBigger(num: 414), 441)
+//        XCTAssertEqual(nextBigger(num: 144), 414)
+//    }
 }

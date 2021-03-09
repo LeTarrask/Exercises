@@ -45,6 +45,9 @@
                   Identifier = "ExercisesTest4">
                </Test>
                <Test
+                  Identifier = "ExercisesTest5/testNextBigger()">
+               </Test>
+               <Test
                   Identifier = "ExercisesTests2">
                </Test>
                <Test
