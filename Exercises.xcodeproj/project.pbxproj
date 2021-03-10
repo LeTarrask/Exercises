@@ -73,7 +73,6 @@
 		79FE6E1F25E1926700FD56D7 /* Aretheythe"same"?.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FE6E1E25E1926700FD56D7 /* Aretheythe"same"?.swift */; };
 		79FE6E2325E195AF00FD56D7 /* Findthemissingletter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FE6E2225E195AF00FD56D7 /* Findthemissingletter.swift */; };
 		79FE6E2B25E1A69500FD56D7 /* Integers-RecreationOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FE6E2A25E1A69500FD56D7 /* Integers-RecreationOne.swift */; };
-		79FE6E2F25E3FDE000FD56D7 /* Nextbiggernumberwiththesamedigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FE6E2E25E3FDE000FD56D7 /* Nextbiggernumberwiththesamedigits.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -144,7 +143,6 @@
 		79FE6E1E25E1926700FD56D7 /* Aretheythe"same"?.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Aretheythe\"same\"?.swift"; sourceTree = "<group>"; };
 		79FE6E2225E195AF00FD56D7 /* Findthemissingletter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Findthemissingletter.swift; sourceTree = "<group>"; };
 		79FE6E2A25E1A69500FD56D7 /* Integers-RecreationOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Integers-RecreationOne.swift"; sourceTree = "<group>"; };
-		79FE6E2E25E3FDE000FD56D7 /* Nextbiggernumberwiththesamedigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nextbiggernumberwiththesamedigits.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,7 +172,6 @@
 				79FE6E1E25E1926700FD56D7 /* Aretheythe"same"?.swift */,
 				79FE6E2225E195AF00FD56D7 /* Findthemissingletter.swift */,
 				79FE6E2A25E1A69500FD56D7 /* Integers-RecreationOne.swift */,
-				79FE6E2E25E3FDE000FD56D7 /* Nextbiggernumberwiththesamedigits.swift */,
 				79FCD19F25F794FE007F08FB /* Over The Road.swift */,
 			);
 			path = Funcs;
@@ -433,7 +430,6 @@
 				79E9B79225DEE9AB0016FA32 /* digitalRoot.swift in Sources */,
 				7966C59D25DE949100BCB5D8 /* AlphabetWar.swift in Sources */,
 				79E9B7A925DF10EF0016FA32 /* extension+Binary+Int.swift in Sources */,
-				79FE6E2F25E3FDE000FD56D7 /* Nextbiggernumberwiththesamedigits.swift in Sources */,
 				7966C5E125DED19C00BCB5D8 /* MaximumMultiple.swift in Sources */,
 				79FE6E2B25E1A69500FD56D7 /* Integers-RecreationOne.swift in Sources */,
 				7900653225DFCE5300D453BF /* BitCounting.swift in Sources */,
